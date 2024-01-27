@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dullahan83/FEM-SocialLinksProfile)
-- Live Site URL: [Add live site URL here](https://dullahan83.github.io/FEM-SocialLinksProfile)
+- Solution URL: [https://github.com/Dullahan83/FEM-SocialLinksProfile]
+- Live Site URL: [https://dullahan83.github.io/FEM-SocialLinksProfile]
 
 ### Built with
 
